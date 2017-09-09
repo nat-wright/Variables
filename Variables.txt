@@ -1,0 +1,6 @@
+A variable is a way for the scripter to name a piece of data. The name can be anything and can help the scripter to remember the name of a specific part of their code.
+Like how we named a variable Health in class when working in Unity
+Such as the different names we gave each piece of code in Visual Studio Code when we were first learning classes (mammal, human, bird, etc.)
+When we set an object to be named PowerUp in Visual Studio Code in order to allow that object to give the player object a healing boost
+The player object was given the name Player and it also had it's own section of code
+When we created the health code and assigned it to have 100 or 200
